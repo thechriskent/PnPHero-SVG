@@ -17,6 +17,8 @@
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="PnPMan.svg">
+  <title
+     id="title3738">SharePoint Patterns and Practices Hero</title>
   <defs
      id="defs2">
     <linearGradient
@@ -45,7 +47,9 @@
      inkscape:window-height="1013"
      inkscape:window-x="1591"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true"
+     showborder="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -54,7 +58,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>SharePoint Patterns and Practices Hero</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Chris Kent</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Do Whatever</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
