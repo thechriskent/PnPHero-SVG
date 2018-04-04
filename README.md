@@ -22,7 +22,7 @@ Originally, the PnP Hero was a raster graphic with several issues that were driv
 
 You can read more about this [here](https://thechriskent.com/2017/11/01/the-pnp-super-hero-we-need/).
 
-Later it was requested that the Hero be more inclusive so Female and multiple skin tone versions were added. You can read more about this here.
+Later it was requested that the Hero be more inclusive so Female and multiple skin tone versions were added. You can read more about this [here](https://thechriskent.com/2018/04/04/the-pnp-super-heroes-we-need/).
 
 ## I don't like it!!!
 
